@@ -17,8 +17,8 @@ Here, I apply logic, control flow, and data structures to build automation scrip
 * [x] **Day 4:** Rock Paper Scissors *(Randomization & Lists)*
 * [x] **Day 5:** Password Generator *(Loops & Range)*
 * [x] **Day 6:** Escaping the Maze *(Functions & While Loops)* - *Completed on Reeborg's World*
-* [x] **Day 7:** Hangman Project - *In Progress 🚧*
-* [x] **Day 8:** Caesar Cipher - *Coming Soon*
+* [x] **Day 7:** Hangman Project
+* [x] **Day 8:** Caesar Cipher
 * [x] **Day 9:** Secret Auction (Dictionaries & Nesting)
 * [x] **Day 10:** Calculator (Functions with Outputs)
 * [x] **Day 11:** Blackjack Capstone Project (Main Game Loop, Boolean Flags & Scope)

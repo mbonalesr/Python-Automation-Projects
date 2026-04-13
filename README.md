@@ -18,12 +18,20 @@ Here, I apply logic, control flow, and data structures to build automation scrip
 * [x] **Day 5:** Password Generator *(Loops & Range)*
 * [x] **Day 7:** Hangman Project
 * [x] **Day 8:** Caesar Cipher
-* [x] **Day 9:** Secret Auction (Dictionaries & Nesting)
-* [x] **Day 10:** Calculator (Functions with Outputs)
-* [x] **Day 11:** Blackjack Capstone Project (Main Game Loop, Boolean Flags & Scope)
+* [x] **Day 9:** Secret Auction *(Dictionaries & Nesting)*
+* [x] **Day 10:** Calculator *(Functions with Outputs)*
+* [x] **Day 11:** Blackjack Capstone Project *(Main Game Loop, Boolean Flags & Scope)*
 * [x] **Day 12:** Number Guessing Game
 * [x] **Day 14:** Higher Lower Game
-* [ ] **Day 15:** Coffee Machine - In Progress 🚧
-* [ ] **Day 16:** OOP Coffee Machine - Coming Soon
 ---
+### Intermediate Section: Object-Oriented Programming (OOP) & GUIs
+* [x] **Day 15:** Coffee Machine
+* [x] **Day 16:** OOP Coffee Machine
+* [x] **Day 17:** Quiz Project
+* [ ] **Day 18:** Hirst Painting - In Progress 🚧
+* [ ] **Day 19:** Turtle Race - Coming Soon
+* [ ] **Day 20-21:** Classic Snake Game *(Inheritance, List Slicing, Turtle Graphics)* - Coming Soon
+* [ ] **Day 22:** Classic Pong Game *(Classes, State Management, Collision Detection)* - Coming Soon
+* [ ] **Day 23:** Turtle Crossing Capstone Project - Coming Soon
+
 *Created by Mauricio Bonales Revuelta - Mechatronics Engineer & Python Developer.*

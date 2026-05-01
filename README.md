@@ -28,10 +28,13 @@ Here, I apply logic, control flow, and data structures to build automation scrip
 * [x] **Day 15:** Coffee Machine
 * [x] **Day 16:** OOP Coffee Machine
 * [x] **Day 17:** Quiz Project
-* [ ] **Day 18:** Hirst Painting - In Progress 🚧
-* [ ] **Day 19:** Turtle Race - Coming Soon
-* [ ] **Day 20-21:** Classic Snake Game *(Inheritance, List Slicing, Turtle Graphics)* - Coming Soon
-* [ ] **Day 22:** Classic Pong Game *(Classes, State Management, Collision Detection)* - Coming Soon
+* [X] **Day 18:** Hirst Painting
+* [X] **Day 19:** Turtle Race
+* [X] **Day 20-21:** Classic Snake Game *(Inheritance, List Slicing, Turtle Graphics)* 
+* [ ] **Day 22:** Classic Pong Game *(Classes, State Management, Collision Detection)* - - In Progress 🚧
 * [ ] **Day 23:** Turtle Crossing Capstone Project - Coming Soon
+* [ ] **Day 24:** Mail Merge Project *(Files, Directories and Paths)* - Coming Soon
+* [ ] **Day 25:** US States Game *(CSV Data and Pandas Library)* - Coming Soon
+* [ ] **Day 26:** NATO Alphabet Project *(Dictionary and List Comprehension and Pandas Library)* - Coming Soon
 
 *Created by Mauricio Bonales Revuelta - Mechatronics Engineer & Python Developer.*

@@ -37,10 +37,11 @@ Here, I apply logic, control flow, and data structures to build automation scrip
 * [X] **Day 23:** Turtle Crossing Capstone
 * [X] **Day 24:** Mail Merge Project *(File System)* ✉️
 * [X] **Day 25:** US States Game *(CSV & Pandas)* 🗺️
-* [X] **Day 26:** NATO Alphabet Project *(Comprehensions & Pandas)* 🔡 - In progress 🚧
-* [ ] **Day 28:** Pomodoro Timer *(Tkinter, Dynamic Typing & UI)* ⏳- Coming soon
-* [ ] **Day 29-30:** Password Manager *(Tkinter, JSON & Exception Handling)* 🔐 - Coming soon
-* [ ] **Day 31:** Flashy CAE Flashcards *(Capstone Project: Tkinter & Pandas)* 🇬🇧 - Comingo soon
+* [X] **Day 26:** NATO Alphabet Project *(Comprehensions & Pandas)* 🔡 
+* [X] **Day 27:** GUI Mi to Km Converter *(Tkinter)* ⚖️
+* [X] **Day 28:** Pomodoro Timer *(Tkinter, Dynamic Typing & UI)* ⏳
+* [X] **Day 29-30:** Password Manager *(Tkinter, JSON & Exception Handling)* 🔐
+* [ ] **Day 31:** Flashy CAE Flashcards *(Capstone Project: Tkinter & Pandas)* 🇬🇧 - In progress 🚧
 
 ---
 

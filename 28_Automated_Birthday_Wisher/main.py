@@ -1,10 +1,14 @@
-import pandas as pd
-import datetime as dt
+import os
 import random
 import smtplib
+import pandas as pd
+import datetime as dt
+from dotenv import load_dotenv
 
-MY_EMAIL = "mau.python.bot@gmail.com"
-PASSWORD = "buxe qqsc kgus mrai"
+load_dotenv()
+
+MY_EMAIL = os.environ.get("MY_EMAIL")
+PASSWORD = os.environ.get("PASSWORD")
 
 def generate_letter(name):
     """Chooses a random letter from folder and customises"""

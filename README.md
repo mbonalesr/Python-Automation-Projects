@@ -41,13 +41,17 @@ Here, I apply logic, control flow, and data structures to build automation scrip
 * [X] **Day 27:** GUI Mi to Km Converter *(Tkinter)* ⚖️
 * [X] **Day 28:** Pomodoro Timer *(Tkinter, Dynamic Typing & UI)* ⏳
 * [X] **Day 29-30:** Password Manager *(Tkinter, JSON & Exception Handling)* 🔐
-* [ ] **Day 31:** Flashy CAE Flashcards *(Capstone Project: Tkinter & Pandas)* 🇬🇧 - In progress 🚧
+ In progress 🚧
 
 ---
 
-### Intermediate+ Section: APIs, Web Scraping & More (Coming Soon) 🚧
-* [ ] **Upcoming:** Working with External APIs 🌐
-* [ ] **Upcoming:** Web Scraping with Beautiful Soup 🍲
-* [ ] **Upcoming:** Browser Automation with Selenium 🤖
+### Intermediate+ Section: APIs, Email & Automation 🌐
+* [X] **Day 32:** Kanye Quotes *(API Endpoints)* 🗣️
+* [X] **Day 33:** Automated Birthday Wisher *(smtplib & datetime)* 🎂
+* [X] **Day 31:** Flashy CAE Flashcards *(Capstone Project: Tkinter & Pandas)* 🇬🇧
+* [X] **Day 35:** Quizzler App *(API & Tkinter UI)* 🧠
+* [ ] **Day 34:** Automatic Bitcoin Monitor *(API Requests)* 💰 -  In progress 🚧
 
-*Created by Mauricio Bonales Revuelta - Mechatronics Engineer & Python Developer.*
+
+
+---

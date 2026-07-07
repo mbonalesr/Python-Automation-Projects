@@ -11,7 +11,7 @@ Here, I apply logic, control flow, and data structures to build automation scrip
 
 ## 🚀 Progress Log
 
-### Beginner Section: Scripting & Logic (Days 1-14)
+### Beginner Section: Scripting & Logic
 * [X] **Day 1:** Band Name Generator *(Variables & Input)*
 * [X] **Day 2:** Tip Calculator *(Data Types & Math Operations)*
 * [X] **Day 3:** Treasure Island *(Control Flow & Logical Operators)*
@@ -41,17 +41,18 @@ Here, I apply logic, control flow, and data structures to build automation scrip
 * [X] **Day 27:** GUI Mi to Km Converter *(Tkinter)* ⚖️
 * [X] **Day 28:** Pomodoro Timer *(Tkinter, Dynamic Typing & UI)* ⏳
 * [X] **Day 29-30:** Password Manager *(Tkinter, JSON & Exception Handling)* 🔐
- In progress 🚧
 
 ---
 
-### Intermediate+ Section: APIs, Email & Automation 🌐
+### Intermediate+ Section: APIs, Email & Automation
 * [X] **Day 32:** Kanye Quotes *(API Endpoints)* 🗣️
 * [X] **Day 33:** Automated Birthday Wisher *(smtplib & datetime)* 🎂
 * [X] **Day 31:** Flashy CAE Flashcards *(Capstone Project: Tkinter & Pandas)* 🇬🇧
 * [X] **Day 35:** Quizzler App *(API & Tkinter UI)* 🧠
-* [ ] **Day 34:** Automatic Bitcoin Monitor *(API Requests)* 💰 -  In progress 🚧
-
-
-
----
+* [X] **Day 34:** Automatic Bitcoin Monitor *(API Requests)* 💰 -  In progress 🚧
+* [X] **Day 35:** Rain Alert Project *(API Authentication & Environment Variables)* ☔
+* [ ] **Day 36:** Stock Trading Alert *(Multiple APIs & Automation)* 📈 -  In progress 🚧
+* [ ] **Day 37:** Habit Tracker *(HTTP POST Requests & Headers)* 🏃‍♂️ -  In progress 🚧
+* [ ] **Day 38:** Workout Tracker *(NLP, Nutritionix & Sheety APIs)* 💪 - Coming soon!
+* [ ] **Day 39-40:** Flight Deal Finder *(OOP & Multi-API Orchestration)* ✈️ - Coming soon!
+* [ ] **Day 45:** 100 Movies Project *(BeautifulSoup & HTML Parsing)* 🎬🍿- Coming soon!
